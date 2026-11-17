@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "fallback": "en",
+  "languages": [
+    {
+      "code": "af-ZA",
+      "name": "Afrikaans",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "review": "machine-draft"
+    },
+    {
+      "code": "az",
+      "name": "Azərbaycanca",
+      "review": "machine-draft"
+    },
+    {
+      "code": "be-BY",
+      "name": "Беларуская",
+      "review": "machine-draft"
+    },
+    {
+      "code": "bg-BG",
+      "name": "Български",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ca",
+      "name": "Català",
+      "review": "machine-draft"
+    },
+    {
+      "code": "cs-CZ",
+      "name": "Čeština",
+      "review": "machine-draft"
+    },
+    {
+      "code": "cy-GB",
+      "name": "Cymraeg",
+      "review": "machine-draft"
+    },
+    {
+      "code": "da-DK",
+      "name": "Dansk",
+      "review": "machine-draft"
+    },
+    {
+      "code": "de-DE",
+      "name": "Deutsch",
+      "review": "machine-draft"
+    },
+    {
+      "code": "el-GR",
+      "name": "Ελληνικά",
+      "review": "machine-draft"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "review": "source"
+    },
+    {
+      "code": "es-ES",
+      "name": "Español (España)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "es-MX",
+      "name": "Español (México)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "et-EE",
+      "name": "Eesti",
+      "review": "machine-draft"
+    },
+    {
+      "code": "fi-FI",
+      "name": "Suomi",
+      "review": "machine-draft"
+    },
+    {
+      "code": "fil-PH",
+      "name": "Filipino",
+      "review": "machine-draft"
+    },
+    {
+      "code": "fr-CA",
+      "name": "Français (Canada)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "fr-FR",
+      "name": "Français (France)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ga-IE",
+      "name": "Gaeilge",
+      "review": "machine-draft"
+    },
+    {
+      "code": "he-IL",
+      "name": "עברית",
+      "review": "machine-draft"
+    },
+    {
+      "code": "hr-HR",
+      "name": "Hrvatski",
+      "review": "machine-draft"
+    },
+    {
+      "code": "hu-HU",
+      "name": "Magyar",
+      "review": "machine-draft"
+    },
+    {
+      "code": "hy-AM",
+      "name": "Հայերեն",
+      "review": "machine-draft"
+    },
+    {
+      "code": "id-ID",
+      "name": "Bahasa Indonesia",
+      "review": "machine-draft"
+    },
+    {
+      "code": "is-IS",
+      "name": "Íslenska",
+      "review": "machine-draft"
+    },
+    {
+      "code": "it-IT",
+      "name": "Italiano",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ja-JP",
+      "name": "日本語",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ka-GE",
+      "name": "ქართული",
+      "review": "machine-draft"
+    },
+    {
+      "code": "kk-KZ",
+      "name": "Қазақша",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ko-KR",
+      "name": "한국어",
+      "review": "machine-draft"
+    },
+    {
+      "code": "lt-LT",
+      "name": "Lietuvių",
+      "review": "machine-draft"
+    },
+    {
+      "code": "lv-LV",
+      "name": "Latviešu",
+      "review": "machine-draft"
+    },
+    {
+      "code": "mk-MK",
+      "name": "Македонски",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ms-MY",
+      "name": "Bahasa Melayu",
+      "review": "machine-draft"
+    },
+    {
+      "code": "mt-MT",
+      "name": "Malti",
+      "review": "machine-draft"
+    },
+    {
+      "code": "nl-BE",
+      "name": "Nederlands (België)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "nl-NL",
+      "name": "Nederlands (Nederland)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "no",
+      "name": "Norsk bokmål",
+      "review": "machine-draft"
+    },
+    {
+      "code": "pl-PL",
+      "name": "Polski",
+      "review": "machine-draft"
+    },
+    {
+      "code": "pt-BR",
+      "name": "Português (Brasil)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "pt-PT",
+      "name": "Português (Portugal)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ro-RO",
+      "name": "Română",
+      "review": "machine-draft"
+    },
+    {
+      "code": "ru-RU",
+      "name": "Русский",
+      "review": "machine-draft"
+    },
+    {
+      "code": "sk-SK",
+      "name": "Slovenčina",
+      "review": "machine-draft"
+    },
+    {
+      "code": "sl-SI",
+      "name": "Slovenščina",
+      "review": "machine-draft"
+    },
+    {
+      "code": "sq-AL",
+      "name": "Shqip",
+      "review": "machine-draft"
+    },
+    {
+      "code": "sr-Cyrl-RS",
+      "name": "Српски (ћирилица)",
+      "review": "machine-draft"
+    },
+    {
+      "code": "sv-SE",
+      "name": "Svenska",
+      "review": "machine-draft"
+    },
+    {
+      "code": "th-TH",
+      "name": "ไทย",
+      "review": "machine-draft"
+    },
+    {
+      "code": "tr-TR",
+      "name": "Türkçe",
+      "review": "machine-draft"
+    },
+    {
+      "code": "uk-UA",
+      "name": "Українська",
+      "review": "machine-draft"
+    },
+    {
+      "code": "uz",
+      "name": "O‘zbekcha",
+      "review": "machine-draft"
+    },
+    {
+      "code": "vi-VN",
+      "name": "Tiếng Việt",
+      "review": "machine-draft"
+    },
+    {
+      "code": "zh-CN",
+      "name": "简体中文",
+      "review": "machine-draft"
+    },
+    {
+      "code": "zh-Hant",
+      "name": "繁體中文",
+      "review": "machine-draft"
+    }
+  ]
+}

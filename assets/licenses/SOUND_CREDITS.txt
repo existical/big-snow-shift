@@ -1,0 +1,20 @@
+SOUND EFFECTS
+
+Menu click: "Click" — complex_waveform
+https://freesound.org/people/complex_waveform/sounds/213148/
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Uses the public OGG preview, renamed click.ogg without audio edits.
+Playback volume follows the game's sound-effects setting.
+
+Win: "Success Fanfare Trumpets.mp3" — FunWithSound
+https://freesound.org/people/FunWithSound/sounds/456966/
+Lose: "horn_fail_wahwah_1.wav" — TaranP
+https://freesound.org/people/TaranP/sounds/362206/
+Both recordings: CC0 1.0 Universal (public-domain dedication)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Shoveling, hit and chime: Andrjus Valkuns / Existical Games
+Original synthesized effects, CC BY 4.0
+https://www.existical.com/
+https://creativecommons.org/licenses/by/4.0/

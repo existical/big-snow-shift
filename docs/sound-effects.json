@@ -1,0 +1,57 @@
+{
+  "version": "0.29.1",
+  "updated_date": "2026-11-17",
+  "effects": [
+    {
+      "role": "click",
+      "path": "assets/audio/click.ogg",
+      "title": "Click",
+      "creator": "complex_waveform",
+      "sound_id": 213148,
+      "source_url": "https://freesound.org/people/complex_waveform/sounds/213148/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_page_checked": "2026-11-17",
+      "download_url": "https://cdn.freesound.org/previews/213/213148_2292431-lq.ogg",
+      "download_variant": "Public OGG preview; not the original WAV download.",
+      "sha256": "5bca226c1df55bd3e6ee2fd2a86174b5423f267c1bb1597a4a5ec2c22084695c",
+      "duration_seconds": 0.2098639455782313,
+      "sample_rate": 44100,
+      "modifications": "Public OGG preview copied unchanged and renamed click.ogg; playback volume follows the game sound-effects setting.",
+      "source_page_evidence_path": ".research/licensing/2026-11-17/click-source.html",
+      "source_page_evidence_sha256": "563b60a55ac8a007402f1e41ad6791fe18d0293e91b6ea6deb4b1119ce2a2670"
+    },
+    {
+      "role": "lose",
+      "title": "horn_fail_wahwah_1.wav",
+      "creator": "TaranP",
+      "source_url": "https://freesound.org/people/TaranP/sounds/362206/",
+      "sound_id": 362206,
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_identified_by": "Project owner",
+      "path": "assets/audio/lose.ogg",
+      "sha256": "e71d73fc2d05ba148a87012bf1a1af47aa2ee3139228810056cde32350da4f17",
+      "duration_seconds": 4.277625,
+      "restoration": "Exact archived OGG restored at owner request on 2026-11-17; no new audio edits.",
+      "provenance_record": "docs/recovered-freesound-effects.json",
+      "prior_processing": "OGG derived from the owner-identified source. Earlier encoding/edit details are unknown; see provenance record for comparison limits."
+    },
+    {
+      "role": "win",
+      "title": "Success Fanfare Trumpets.mp3",
+      "creator": "FunWithSound",
+      "source_url": "https://freesound.org/people/FunWithSound/sounds/456966/",
+      "sound_id": 456966,
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_identified_by": "Project owner",
+      "path": "assets/audio/win.ogg",
+      "sha256": "90bc134da161e5d30736ccf55f32d25630203cb47fdcf3d392056e533e008995",
+      "duration_seconds": 2.780375,
+      "restoration": "Exact archived OGG restored at owner request on 2026-11-17; no new audio edits.",
+      "provenance_record": "docs/recovered-freesound-effects.json",
+      "prior_processing": "OGG derived from the owner-identified source. Earlier encoding/edit details are unknown; see provenance record for comparison limits."
+    }
+  ]
+}

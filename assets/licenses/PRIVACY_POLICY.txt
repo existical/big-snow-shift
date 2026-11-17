@@ -1,0 +1,89 @@
+BIG SNOW SHIFT · EXISTICAL GAMES
+
+Privacy policy
+
+Last updated: 17 November 2026
+
+You can play offline. The game saves your progress and preferences on your device. It does not upload your nickname or saved game, and it contains no advertising or in-game analytics.
+
+1. Who we are and what this policy covers
+
+Big Snow Shift is developed by Andrjus Valkuns under the name Existical Games. In this policy, “we” and “us” mean Andrjus Valkuns / Existical Games.
+
+This policy describes the Android and Windows editions of Big Snow Shift supplied by us, including beta editions. It also explains what happens if you contact us about the game. Other Existical Games applications may have different privacy policies.
+
+For privacy questions, contact existicalgames[at]gmail[dot]com.
+
+2. Information used by the game
+
+The game does not require an online account or an Internet connection. It does not send gameplay information or personal information from your device to us or to an advertising or analytics service.
+
+To remember your choices and let you continue playing, the game stores the following locally on your device:
+• Your chosen player nickname, high scores, completion records and earned badges.
+• Your unfinished game, including progress and the rules selected when it began.
+• Preferences such as language, music and sound volume, controls, difficulty, Custom game settings and Windows display settings.
+• Local backup copies of save data, used to recover from an interrupted or damaged save.
+
+You can use a made-up nickname; your real name is not required. Scores are displayed on the device and are not published to an online leaderboard. Other people using the same device or operating-system account may be able to see them.
+
+The game may read device settings, such as the system language and display information, to present the game correctly. Runtime diagnostic messages may be recorded locally by the game or operating system. The game does not automatically upload these messages.
+
+The game contains no advertising, analytics or third-party crash-reporting SDKs. It does not request advertising identifiers, location, contacts, camera or microphone access. It does not use cookies, offer in-app purchases or provide chat or other online social features.
+
+3. Children’s privacy
+
+Big Snow Shift is intended for families, including children under 13. Children can play without creating an account, providing contact details or sharing information online through the game.
+
+The same local-storage practices described above apply to all players. There is no behavioral advertising or in-game tracking. A child can keep the default nickname or choose a made-up one.
+
+Parents and guardians can remove locally saved information using the steps below. If you have a privacy concern or believe a child has sent personal information to us outside the game, please contact existicalgames[at]gmail[dot]com so we can review the request and remove information that is not needed or that we are required to delete.
+
+4. App stores and device services
+
+The store from which you download the game and your operating system may process information independently of the game, under their own privacy policies and your device or account settings.
+
+For example, when a user allows it, Google Play can collect app stability and performance diagnostics through Android vitals and make reports available to developers. We may use those reports to identify and fix problems. This is a platform service, separate from the game’s local saves and from an analytics or crash-reporting SDK embedded in the game. See Google’s Privacy Policy and Google’s explanation of Android vitals.
+
+If you download the game from itch.io, your use of that website is subject to the itch.io Privacy Policy.
+
+The game does not provide its own cloud-save service. Copies made through your device’s backup, transfer or synchronization tools are controlled by those tools and your settings.
+
+5. Contacting us
+
+If you choose to email us, we receive your email address and the information you include, such as your message, screenshots or diagnostic files. This is voluntary and is not required to play. Please avoid sending sensitive personal information or information about a child that is unnecessary for your question.
+
+We use support correspondence to answer your request, investigate reported problems and maintain the game. Our email service providers process messages as necessary to deliver and store that correspondence. We do not sell support information or use it for advertising.
+
+Where applicable, our basis for handling support messages is our legitimate interest in responding to people who contact us and maintaining the game. We may also retain or disclose information where required by applicable law.
+
+6. Keeping and deleting information
+
+Saved information on your device
+
+Preferences and retained scores stay on your device until replaced or deleted. The game periodically updates saves and removes the active Continue save when a game ends. Local backup copies may remain until overwritten or deleted. To remove all local game data, including backups:
+• Android: close the game, open your device’s Settings, select the game under Apps, then choose Storage and Clear storage or Clear data. Menu names vary by device. Uninstalling normally removes the app’s local data as well.
+• Windows: close the game and remove its saved-data folder, %APPDATA%\Godot\app_userdata\Big Snow Shift\. Removing only the executable or its extracted download folder does not remove saved data.
+
+These actions reset local progress, scores and preferences. Remove any separate copies you made using backup or synchronization tools if you also want those copies deleted. We cannot remotely access or erase saves held only on your device.
+
+Information sent to support
+
+We keep support correspondence only for as long as reasonably needed to address the request, resolve related issues and meet applicable legal obligations. You can request deletion by emailing existicalgames[at]gmail[dot]com. We will explain if any information must be retained for a legal reason.
+
+7. Security and your rights
+
+Local game information relies on the protections provided by your device and operating system. Protect access to a shared device if you do not want other users to see local nicknames or scores. We take reasonable steps to protect support correspondence, but no storage or communication method can be guaranteed completely secure.
+
+Depending on applicable law, you may have rights to access, correct or delete personal information you have sent to us, or to object to or restrict its processing. You may also have the right to complain to your local data protection authority. Contact us at existicalgames[at]gmail[dot]com to make a privacy request.
+
+8. This website and external links
+
+Viewing this policy in a browser is separate from playing the game offline. Your browser sends ordinary request information, such as your IP address and browser details, to the website’s hosting service. The host may keep access logs to operate and secure the website.
+
+This policy page does not include advertising, analytics scripts, tracking pixels or cookies. If you follow a link to another website, that website’s own privacy practices apply. Information you send through a website or email is not automatically collected by the game.
+
+9. Policy changes
+
+We may update this policy if the game or our practices change. The revised policy will be published on this page with an updated date. If a change requires additional notice or consent under applicable law, we will provide it before the relevant new processing begins.
+
+Published policy: https://www.existical.com/privacy/big-snow-shift/

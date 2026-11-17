@@ -1,0 +1,150 @@
+{
+  "credit": "Andrjus Valkuns / Existical Games",
+  "method": "OpenAI image generation",
+  "licence_scope": "See ASSET_LICENSES.md.",
+  "paintings": [
+    {
+      "path": "assets/art/caretaker_32_v05.png",
+      "use": "Caretaker movement and shoveling, 32 poses",
+      "source": "Modern caretaker design and the original MAN0–31 poses. A second generation pass removed the background.",
+      "dimensions": [
+        887,
+        1774
+      ],
+      "sha256": "6195a51ba2d6af76804bd5a462c1081f96712a8010cd0f28fbb7a84c06e15f40",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/caretaker_hit_9_v015.png",
+      "use": "Seated recovery after a hit, nine poses",
+      "source": "Modern caretaker and the original TR0–8 poses.",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "e5cdaaddf7f413bdbe7222afd716899fac8072a89c1ebd45298a2bdb71effa7e",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/celebration_atlas.png",
+      "use": "Santa and the decorated tree",
+      "source": "Original storybook illustration brief, followed by a transparency edit.",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "sha256": "cac6cfd06f08875bcbe8a9748f35be32ff1c3b063aedc0ff8ae9bc107a077f77",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/cottage_interior_v012.png",
+      "use": "Doorway interior",
+      "source": "Original brief for a warmly lit hallway inside the winter cottage.",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "a2a2fb39a56b9ecaf7406e4b57fed2f4c238011d441d683f9cb3846b6048380d",
+      "processing": "Downscaled with the pinned Godot Lanczos filter. See image-optimization-v0.30.3.json for the master dimensions and hash."
+    },
+    {
+      "path": "assets/art/door_plain_v014.png",
+      "use": "Cottage background and both arched door leaves",
+      "source": "Edited from the earlier winter cottage painting to remove its wreath and restore the arched wood panels.",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "d831e61d9e8f45dd0f93b0a5ad63c1cecbf27f9353c4ba53fc3ff52a519791f1",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/door_wreath_v014.png",
+      "use": "Wreath reused on both moving doors",
+      "source": "Separate transparent wreath painted from a close-up of the earlier cottage illustration.",
+      "dimensions": [
+        512,
+        493
+      ],
+      "sha256": "ac8db0aeb800141ee5fd33224da6768bebe6f2802b23e4bb8d26bc306b748156",
+      "processing": "Downscaled with the pinned Godot Lanczos filter. See image-optimization-v0.30.3.json for the master dimensions and hash."
+    },
+    {
+      "path": "assets/art/endings_16_v011.png",
+      "use": "Handshake, present and star-wand interactions",
+      "source": "Modern caretaker and Santa artwork with original DOS ending poses as movement references.",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "676d6758f50a77120d2ffa285e1ddf60b01984ced524157c3b57720e1de7fad0",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/icicle_atlas_v017.png",
+      "use": "Icicle growth, roof-snow collar and fragments",
+      "source": "Winter cottage painting used as a style reference. Atlas bounds and attachment points are recorded in the adjacent JSON.",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "4989132078913a51a4ac562aba670aac4f9e6b934bfd556beb16e21e59fad671",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/icon_caretaker_tree_adaptive_v019.png",
+      "use": "Android adaptive icon foreground",
+      "source": "Adaptation of the caretaker and tree app icon with padding for launcher masks.",
+      "dimensions": [
+        432,
+        432
+      ],
+      "sha256": "1f26d5e4cc35ad70ef00e0f262e937b2ffd95bfbee868e9dd935adab1037751f",
+      "processing": "Downscaled with the pinned Godot Lanczos filter. See image-optimization-v0.30.3.json for the master dimensions and hash."
+    },
+    {
+      "path": "assets/art/icon_caretaker_tree_monochrome_v019.png",
+      "use": "Android themed icon",
+      "source": "Monochrome silhouette based on the caretaker and tree app icon.",
+      "dimensions": [
+        432,
+        432
+      ],
+      "sha256": "4b1a307b83c59ebb4759a231738727f1c5e55d20107422a72f066f6b1f9853ab",
+      "processing": "Downscaled with the pinned Godot Lanczos filter. See image-optimization-v0.30.3.json for the master dimensions and hash."
+    },
+    {
+      "path": "assets/art/icon_caretaker_tree_v019.png",
+      "use": "Application icon",
+      "source": "Modern caretaker and decorated tree illustrations.",
+      "dimensions": [
+        512,
+        512
+      ],
+      "sha256": "5703f4cab401323f8df9c56659b7e6354c50de12a7eef5c19a48fbe155c1d52c",
+      "processing": "Downscaled with the pinned Godot Lanczos filter. See image-optimization-v0.30.3.json for the master dimensions and hash."
+    },
+    {
+      "path": "assets/art/santa_fall_16_v012.png",
+      "use": "Santa slipping and falling, sixteen poses",
+      "source": "Modern Santa illustration and the original DO40–55 sequence as movement references.",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "9a9e500c0db6dfead97d8e9a74770c8433e17ee256abf3b7799ad8ef27e68cc3",
+      "processing": "Original generated PNG."
+    },
+    {
+      "path": "assets/art/title_logo_big_snow_shift_v0301.png",
+      "use": "Big Snow Shift title with the subtitle “with Uncle Bolyus”",
+      "source": "Edit of the earlier painted title to correct the subtitle.",
+      "dimensions": [
+        1983,
+        793
+      ],
+      "sha256": "de7b67fbc4cf786b0c335ed7364a46ea68bd1273d8f2c56931b0c82e426cc2cd",
+      "processing": "Original generated PNG."
+    }
+  ]
+}

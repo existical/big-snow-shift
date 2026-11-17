@@ -1,0 +1,89 @@
+{
+	"background_logo_character_animation_and_icicle_resolution": "unchanged",
+	"desktop_target": [
+		5120,
+		2880
+	],
+	"generated": [
+		{
+			"asset": "res://assets/art/door_wreath_v014.png",
+			"master": "res://art-masters/image-optimization-v0.30.3/door_wreath_v014.png",
+			"master_sha256": "90d959c27b7040adbf0fa28831129e203d242eb36b2ee1906cd35551f949d417",
+			"original_size": [
+				1278,
+				1230
+			],
+			"runtime_sha256": "ac8db0aeb800141ee5fd33224da6768bebe6f2802b23e4bb8d26bc306b748156",
+			"runtime_size": [
+				512,
+				493
+			]
+		},
+		{
+			"asset": "res://assets/art/cottage_interior_v012.png",
+			"master": "res://art-masters/image-optimization-v0.30.3/cottage_interior_v012.png",
+			"master_sha256": "aafe60107ce0d1218e0d4007dce4471df3b6517a700189914dc7bea9347048ab",
+			"original_size": [
+				1254,
+				1254
+			],
+			"runtime_sha256": "a2a2fb39a56b9ecaf7406e4b57fed2f4c238011d441d683f9cb3846b6048380d",
+			"runtime_size": [
+				1024,
+				1024
+			]
+		},
+		{
+			"asset": "res://assets/art/icon_caretaker_tree_v019.png",
+			"master": "res://art-masters/image-optimization-v0.30.3/icon_caretaker_tree_v019.png",
+			"master_sha256": "8602061c859d877838829f3d99491c1feb964100d4b7f4cda7acba2e94c42e21",
+			"original_size": [
+				1254,
+				1254
+			],
+			"runtime_sha256": "5703f4cab401323f8df9c56659b7e6354c50de12a7eef5c19a48fbe155c1d52c",
+			"runtime_size": [
+				512,
+				512
+			]
+		},
+		{
+			"asset": "res://assets/art/icon_caretaker_tree_adaptive_v019.png",
+			"master": "res://art-masters/image-optimization-v0.30.3/icon_caretaker_tree_adaptive_v019.png",
+			"master_sha256": "ec8c6ab074f1c9bd823de0b5ef45898e2a557c214a127f5c79b067cdbd15898a",
+			"original_size": [
+				1254,
+				1254
+			],
+			"runtime_sha256": "1f26d5e4cc35ad70ef00e0f262e937b2ffd95bfbee868e9dd935adab1037751f",
+			"runtime_size": [
+				432,
+				432
+			]
+		},
+		{
+			"asset": "res://assets/art/icon_caretaker_tree_monochrome_v019.png",
+			"master": "res://art-masters/image-optimization-v0.30.3/icon_caretaker_tree_monochrome_v019.png",
+			"master_sha256": "8406aa9633fa8b868c3a5512aabae91b5ea9ede648b7bbf444694aeecf5a06fa",
+			"original_size": [
+				1254,
+				1254
+			],
+			"runtime_sha256": "4b1a307b83c59ebb4759a231738727f1c5e55d20107422a72f066f6b1f9853ab",
+			"runtime_size": [
+				432,
+				432
+			]
+		}
+	],
+	"interior_maximum_screen_pixels_at_5k": [
+		616,
+		684
+	],
+	"method": "Godot Lanczos resampling from preserved originals, transparent-edge colour extension, lossless PNG and lossless texture imports",
+	"version": "0.30.3",
+	"wreath_maximum_screen_pixels_at_5k": [
+		240,
+		272
+	]
+}

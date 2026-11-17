@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.ttf binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+
+# Preserve upstream licence and notice bytes, including the pinned font hashes.
+assets/fonts/*-LICENSE.txt -text -whitespace
+assets/licenses/CC*.txt -text -whitespace
+**/THIRD_PARTY_NOTICES.txt -text -whitespace

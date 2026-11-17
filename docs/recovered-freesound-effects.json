@@ -1,0 +1,68 @@
+{
+  "checked_date": "2026-11-17",
+  "scope": "Recovered provenance for pre-0.29.0 effects, restored unchanged in 0.29.1 at owner request. See docs/sound-effects.json for current audio hashes.",
+  "comparison_method": "FFmpeg decoded mono 8000 Hz PCM; Pearson correlation of aligned waveform and 10 ms RMS envelopes. No pitch or tempo correction. Correlation is supporting evidence, not a rights guarantee.",
+  "effects": [
+    {
+      "role": "lose",
+      "title": "horn_fail_wahwah_1.wav",
+      "creator": "TaranP",
+      "sound_id": 362206,
+      "source_url": "https://freesound.org/people/TaranP/sounds/362206/",
+      "preview_url": "https://cdn.freesound.org/previews/362/362206_6629901-lq.ogg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page_checked": "2026-11-17",
+      "source_identified_by": "Project owner",
+      "archive_path": "archive/unverified-audio-v0.28.0/lose.ogg",
+      "archive_sha256": "e71d73fc2d05ba148a87012bf1a1af47aa2ee3139228810056cde32350da4f17",
+      "preview_sha256": "d8807da723be2ba442b34cefaba61b443f598d8991b0a76110c983d2f19f7095",
+      "source_page_evidence_path": ".research/licensing/2026-11-17/lose-source.html",
+      "source_page_evidence_sha256": "14d99054ac75a53e5da4f424c5b3bbaa1b9d2d32a87f28a9533af8875df2dc67",
+      "audio_comparison": {
+        "role": "lose",
+        "archive_duration_seconds": 4.277625,
+        "preview_duration_seconds": 4.277625,
+        "rms_envelope_correlation": 0.9998528770652133,
+        "waveform_correlation": 0.9987801798476791,
+        "preview_offset_seconds": 0.0,
+        "byte_identical": false
+      },
+      "audio_comparison_conclusion": "Strong decoded-audio match at identical duration; encoded files differ.",
+      "currently_used_in_game": true,
+      "restored_in_version": "0.29.1"
+    },
+    {
+      "role": "win",
+      "title": "Success Fanfare Trumpets.mp3",
+      "creator": "FunWithSound",
+      "sound_id": 456966,
+      "source_url": "https://freesound.org/people/FunWithSound/sounds/456966/",
+      "preview_url": "https://cdn.freesound.org/previews/456/456966_6456158-lq.ogg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_page_checked": "2026-11-17",
+      "source_identified_by": "Project owner",
+      "archive_path": "archive/unverified-audio-v0.28.0/win.ogg",
+      "archive_sha256": "90bc134da161e5d30736ccf55f32d25630203cb47fdcf3d392056e533e008995",
+      "preview_sha256": "e3bca653fa376ccee6f4475efa36a58c4b4d9e95a147f28ac27bafaabecd3969",
+      "source_page_evidence_path": ".research/licensing/2026-11-17/win-source.html",
+      "source_page_evidence_sha256": "8e8db758d14980354b1dcc7ede20b131d9a715f465438da3c877e1e6b29e09f1",
+      "audio_comparison": {
+        "role": "win",
+        "archive_duration_seconds": 2.780375,
+        "preview_duration_seconds": 4.4375,
+        "rms_envelope_correlation": 0.7469611313465211,
+        "waveform_correlation": 0.2330423266651896,
+        "preview_offset_seconds": 0.62525,
+        "byte_identical": false,
+        "comparison": "Archived file compared with aligned segment of longer preview; no tempo/pitch transformation attempted."
+      },
+      "audio_comparison_conclusion": "Owner-identified source. Archived effect is shorter; automated comparison did not establish an audio match. Exact editing history remains unknown.",
+      "currently_used_in_game": true,
+      "restored_in_version": "0.29.1"
+    }
+  ],
+  "original_click_status": "Source page and creator still unidentified; archived file excluded from current releases.",
+  "current_game_effects_manifest": "docs/sound-effects.json"
+}

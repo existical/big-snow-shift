@@ -1,0 +1,42 @@
+{
+  "method": "Eight six-second sections at 10%..80%; every fourth decoded stereo frame; attenuation only to sampled RMS -22 dBFS. Not integrated LUFS or true-peak measurement.",
+  "mix_rate": 44100.0,
+  "tracks": {
+    "bama_country": {
+      "duration": 211.853057861328,
+      "gain_db": -3.5,
+      "sampled_peak_dbfs": -1.51232358514302,
+      "sampled_rms_dbfs": -18.4865889064881
+    },
+    "blue_ska": {
+      "duration": 146.25959777832,
+      "gain_db": -7.6,
+      "sampled_peak_dbfs": -0.0615059065720017,
+      "sampled_rms_dbfs": -14.3949708149761
+    },
+    "jingle_bells": {
+      "duration": 102.060409545898,
+      "gain_db": -5.8,
+      "sampled_peak_dbfs": -0.208701700382657,
+      "sampled_rms_dbfs": -16.1830314359861
+    },
+    "no_frills_comparsa": {
+      "duration": 159.712646484375,
+      "gain_db": -1.0,
+      "sampled_peak_dbfs": -0.659601254103942,
+      "sampled_rms_dbfs": -21.0179981108008
+    },
+    "peppy_pepe": {
+      "duration": 158.772247314453,
+      "gain_db": 0.0,
+      "sampled_peak_dbfs": -3.54132417171311,
+      "sampled_rms_dbfs": -26.0541014359397
+    },
+    "sunday_dub": {
+      "duration": 209.475921630859,
+      "gain_db": -10.1,
+      "sampled_peak_dbfs": -0.22683227379504,
+      "sampled_rms_dbfs": -11.944968984952
+    }
+  }
+}

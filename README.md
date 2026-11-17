@@ -32,7 +32,7 @@ Run this on a graphical Windows desktop. It imports the project, runs gameplay, 
 
 ## Export an Android debug APK
 
-1. Complete the Windows build above. Install JDK 17 and the Android SDK with platform-tools, Android 36 and Build-Tools 36.1.0.
+1. Complete the Windows build above. Install JDK 17 and the Android SDK with platform-tools, Android 36 and Build-Tools 36.0.0, the version used by the pinned editor for the debug APK.
 2. Open the project with **Open Godot.cmd**. Under **Editor → Editor Settings → Export → Android**, set **Java SDK Path** and **Android SDK Path** to your local installations. Godot uses a local debug keystore for testing.
 3. Close the editor and export an ARM64 tablet APK.
 
